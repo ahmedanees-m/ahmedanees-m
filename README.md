@@ -1,4 +1,4 @@
-# Hi, I'm Anees — I build tools for programmable gene therapy
+# Hi, I'm Anees, I build tools for programmable gene therapy
 
 > **Full-stack genome engineer (wet-lab + ML/Quantum) | PhD Candidate, VIT Vellore**
 
