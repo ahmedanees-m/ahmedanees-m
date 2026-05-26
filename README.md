@@ -1,8 +1,8 @@
-# Hi, I'm Anees, I build tools for programmable gene therapy
+# Hi, I'm Anees — I build tools for programmable gene therapy
 
-> **Full-stack genome engineer (wet-lab + AI/ML/Quantum) | PhD Candidate, VIT Vellore**
+> **Full-stack genome engineer & vibe coder (wet-lab + AI/ML/Quantum) | PhD Candidate, VIT Vellore**
 
-I combine hands-on gene therapy and virology with machine learning and quantum-inspired circuits to design DNA, viral vectors, and genome-writing enzymes. Trained in the wet lab, now building the computational tools that make genome engineering faster and smarter.
+I combine hands-on gene therapy and virology with machine learning and quantum-inspired circuits to design DNA, viral vectors, and genome-writing enzymes. Trained in the wet lab, now vibe-coding the computational tools that make genome engineering faster and smarter.
 
 ---
 
@@ -24,23 +24,23 @@ I combine hands-on gene therapy and virology with machine learning and quantum-i
 
 ---
 
-## Featured Projects
+## Current Projects
 
 | Project | What it does |
 |---|---|
-| [QuBiS-HiQ](https://github.com/ahmedanees-m/QuBiS-HiQ) | Physics-informed quantum circuit encoding SantaLucia DNA thermodynamics into gate angles for sequence embeddings |
 | [genome-atlas](https://github.com/ahmedanees-m/genome-atlas) | Programmable genome-writing knowledge graph + GNN toolkit for CRISPR/CAST/Fanzor enzymes with ESM-2 and link prediction |
-| [pen-assemble](https://github.com/ahmedanees-m/pen-assemble) | Automated design & scoring engine for molecular bridge-recombinase libraries (PEN Suite) |
+| [mech-class](https://github.com/ahmedanees-m/mech-class) | Mechanism classification framework for DNA-modifying enzymes using ML and sequence-structure features |
 | [pen-score](https://github.com/ahmedanees-m/pen-score) | ML scoring and ranking of candidate recombinase constructs (PEN Suite) |
-| [tale-linker-design](https://github.com/ahmedanees-m/tale-linker-design) | Design framework for programmable TALE-based gene regulators and peptide linkers |
+| [pen-assemble](https://github.com/ahmedanees-m/pen-assemble) | Automated design & scoring engine for molecular bridge-recombinase libraries (PEN Suite) |
+| [pen-compare](https://github.com/ahmedanees-m/pen-compare) | Benchmarking and comparison framework for recombinase and editor designs (PEN Suite) |
 
 ---
 
 ## What I'm Building Now
 
-- **EnzymeForge** — an agentic AI platform that chains wet-lab priors with ML and quantum circuits for regulatory sequence and enzyme design
-- Turning QuBiS-HiQ, genome-atlas, and the PEN Suite into robust, shareable tools for the broader genetic engineering community
-- Manuscript preparation for publication of quantum-classical hybrid and ML-based genome engineering work
+- Turning genome-atlas, the PEN Suite, and mech-class into robust, publication-ready tools for the genetic engineering community
+- Manuscript preparation for quantum-classical hybrid and ML-based genome engineering work
+- Vibe-coding pipelines that bridge wet-lab intuition with computational genome design
 
 ---
 
