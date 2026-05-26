@@ -1,6 +1,6 @@
 # Hi, I'm Anees, I build tools for programmable gene therapy
 
-> **Full-stack genome engineer (wet-lab + ML/Quantum) | PhD Candidate, VIT Vellore**
+> **Full-stack genome engineer (wet-lab + AI/ML/Quantum) | PhD Candidate, VIT Vellore**
 
 I combine hands-on gene therapy and virology with machine learning and quantum-inspired circuits to design DNA, viral vectors, and genome-writing enzymes. Trained in the wet lab, now building the computational tools that make genome engineering faster and smarter.
 
