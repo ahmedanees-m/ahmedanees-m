@@ -20,7 +20,7 @@ I combine hands-on gene therapy and virology with machine learning and quantum-i
 - **ML & GNNs** for genome-writing enzyme discovery and link prediction (GraphSAGE/GAT + ESM-2 embeddings)
 - **Quantum circuits** for DNA thermodynamics encoding and sequence feature extraction (Qiskit, PennyLane)
 - **Automated design pipelines** for recombinase and base editor library engineering
-- **Languages & tools** — Python, PyTorch, scikit-learn, networkx, Qiskit, PennyLane, Biopython, Shell/Bash
+- **Languages & tools** - Python, PyTorch, scikit-learn, networkx, Qiskit, PennyLane, Biopython, Shell/Bash
 
 ---
 
