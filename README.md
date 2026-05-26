@@ -36,16 +36,7 @@ I combine hands-on gene therapy and virology with machine learning and quantum-i
 
 ---
 
-## What I'm Building Now
-
-- Turning genome-atlas, the PEN Suite, and mech-class into robust, publication-ready tools for the genetic engineering community
-- Manuscript preparation for quantum-classical hybrid and ML-based genome engineering work
-- Vibe-coding pipelines that bridge wet-lab intuition with computational genome design
-
----
-
 ## Let's Connect
 
-- LinkedIn: [ahmedanees-m](https://www.linkedin.com/in/ahmedanees-m)
-- Email: ahmedaneesm@gmail.com
-- Institute: Vellore Institute of Technology, Gene Therapy Lab
+- Email: ahmedaneesm@gmail.com;
+- Institute: Gene Therapy Lab, Vellore Institute of Technology
