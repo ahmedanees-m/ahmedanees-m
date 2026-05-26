@@ -8,10 +8,10 @@ I combine hands-on gene therapy and virology with machine learning and quantum-i
 
 ## Wet-Lab Foundation
 
-- **Gene therapy & virology** — AAV/lentiviral vector design, packaging, transduction, and titer optimization
-- **Plasmid & construct engineering** — multi-cassette vectors, promoter/UTR tuning, reporter systems, Gibson & Golden Gate assembly
-- **Molecular biology** — PCR, cloning, Sanger/NGS prep, qPCR, gel electrophoresis
-- **Mammalian cell culture** — transfection, transduction, functional assays across HEK293, HeLa, and primary lines
+- **Gene therapy & virology** - AAV/lentiviral vector design, packaging, transduction, and titer optimization
+- **Plasmid & construct engineering** - multi-cassette vectors, promoter/UTR tuning, reporter systems, Gibson & Golden Gate assembly
+- **Molecular biology** - PCR, cloning, Sanger/NGS prep, qPCR, gel electrophoresis
+- **Mammalian cell culture** - transfection, transduction, functional assays across HEK293, HeLa, and primary lines
 
 ---
 
