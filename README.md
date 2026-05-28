@@ -2,7 +2,7 @@
 
 > **Full-stack genome engineer & vibe coder (wet-lab + AI/ML/Quantum) | Doctoral Researcher, Gene Therapy Lab, VIT Vellore**
 
-I combine hands-on gene therapy and virology with machine learning and quantum-inspired circuits to design DNA, viral vectors, and genome-writing enzymes. Trained in the wet lab, now vibe-coding the computational tools that make genome engineering faster and smarter.
+I combine hands-on gene therapy and virology with machine learning and quantum-inspired circuits to design DNA, viral vectors, and genome-writing enzymes. Trained in the wet lab, now vibe-coding the computational tools that make genome engineering faster and smarter. The future of science is AI‑assisted. I’m living it. Wet-lab genome engineer → computational tool builder.
 
 ---
 
