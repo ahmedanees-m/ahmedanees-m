@@ -1,8 +1,10 @@
 # Hi, I'm Anees - I build tools for programmable gene therapy
 
-> **Full-stack genome engineer & vibe coder (wet-lab + AI/ML/Quantum) | Doctoral Researcher, Gene Therapy Lab, VIT Vellore**
+> **AI-Native Architect (wet-lab + AI/ML/Quantum) | Doctoral Researcher, Gene Therapy Lab, VIT Vellore**
 
-I combine hands-on gene therapy and virology with machine learning and quantum-inspired circuits to design DNA, viral vectors, and genome-writing enzymes. Trained in the wet lab, now vibe-coding the computational tools that make genome engineering faster and smarter. The future of science is AI‑assisted. I’m living it. Wet-lab genome engineer → computational tool builder.
+​I am an AI-Native Architect specializing in Genetic Engineering. I don't write syntax; I build systems. I leverage agentic workflows to translate domain-specific logic into production-grade software. My focus is on architecture, validation, and solving complex problems in the Genetics space at a speed that traditional teams can’t match. 
+
+Bioengineer turned AI-Native Architect. I bridge the gap between bench-side molecular biology and computational design. By integrating wet-lab expertise in gene therapy and virology with agentic AI workflows, I build high-velocity platforms for DNA synthesis, viral vector design, and genome-writing enzyme optimization. I don’t just write code; I architect intelligent systems that accelerate the future of genome engineering. The future of science is AI‑assisted. I’m living it. Wet-lab genome engineer → computational tool builder.
 
 ---
 
