@@ -1,4 +1,6 @@
-# Hi, I'm Anees - I build computational frameworks to accelerate the future of programmable gene therapy.
+# Hi, I'm Anees
+
+I build computational frameworks to accelerate the future of programmable gene therapy.
 ​
 > **AI-Native Architect | Bioinformatics & Synthetic Biology
  | Doctoral Researcher, Gene Therapy Lab, VIT Vellore**
