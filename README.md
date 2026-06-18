@@ -1,6 +1,7 @@
-# Hi, I'm Anees - I build tools for programmable gene therapy
-
-> **AI-Native Architect (wet-lab + AI/ML/Quantum) | Doctoral Researcher, Gene Therapy Lab, VIT Vellore**
+# Hi, I'm Anees - I build computational frameworks to accelerate the future of programmable gene therapy.
+​
+> **AI-Native Architect | Bioinformatics & Synthetic Biology
+ | Doctoral Researcher, Gene Therapy Lab, VIT Vellore**
 
 ​I am an AI-Native Architect specializing in Genetic Engineering. I don't write syntax; I build systems. I leverage agentic workflows to translate domain-specific logic into production-grade software. My focus is on architecture, validation, and solving complex problems in the Genetics space at a speed that traditional teams can’t match. 
 
