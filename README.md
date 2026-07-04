@@ -19,7 +19,7 @@ Vellore, India  ·  ahmedaneesm@gmail.com
 
 ## About
 
-Before I wrote software, I ran gels, packaged lentivirus, and sat through 3 a.m. timepoints. I spent years at the bench first, and that order matters. I do not build AI and ML tools for genetic engineering as an outsider. I build them to solve problems I have personally hit doing the wet-lab work myself, then validate them back against real biology.
+Before I wrote software, I ran gels, set up PCRs, packaged lentivirus, kept mammalian cell cultures alive, and sat through 3 a.m. timepoints. I spent years at the bench first, and that order matters. I do not build AI and ML tools for genetic engineering as an outsider. I build them to solve problems I have personally hit doing the wet-lab work myself, then validate them back against real biology.
 
 I am an AI-native builder. I architect systems end to end, from data pipelines and ML and quantum models to deployed web tools, and I use frontier coding agents such as Claude Code as my implementation layer. That lets me ship research-grade software on my own, at a pace and quality that would usually take a team.
 
@@ -50,24 +50,15 @@ I am an AI-native builder. I architect systems end to end, from data pipelines a
 | Project | What it is | Status |
 |---|---|---|
 | **[PEN-STACK](https://github.com/ahmedanees-m/pen-stack)** | End-to-end open infrastructure for programmable genome writing: a learned locus atlas for safe and durable integration sites, a curated atlas of roughly 33K genome-writing enzyme systems, an inverse-design Write Planner, and an agentic RAG question-and-answer layer served through a live web app. One completed component (IS110-family recombinase design) hit 5 of 5 pre-registered predictions across 1,029 candidates. | `pip install pen-stack`, manuscript in preparation (target: *Nature Methods*) |
-| **DISCERN** | Clinical decision-support engine to catch misdiagnosis across inherited bleeding and platelet disorders that mimic each other clinically, for example Glanzmann thrombasthenia versus LAD-III. It flags cases where the wrong diagnosis would mean the wrong treatment, not just the wrong label. | Implementation complete, validation in progress |
+| **[DISCERN](https://github.com/ahmedanees-m/discern)** | Clinical decision-support engine to catch misdiagnosis across inherited bleeding and platelet disorders that mimic each other clinically, for example Glanzmann thrombasthenia versus LAD-III. It flags cases where the wrong diagnosis would mean the wrong treatment, not just the wrong label. | Implementation complete, validation in progress |
+| **[bio-firewall](https://github.com/ahmedanees-m/bio-firewall)** | Genome-writing-native biosecurity middleware that supervises agentic design AI. A five-axis screen across cargo, locus, edit type, germline, and scale returns allow, flag-for-review, or refuse, each with cited evidence and a signed design passport. Defensive, open-data reference implementation. | Open source (Apache-2.0), benchmarked, manuscript in preparation |
 | **[QuBiS-HiQ](https://github.com/ahmedanees-m/QuBiS-HiQ)** | Physics-informed quantum circuit that encodes SantaLucia nearest-neighbour DNA thermodynamic parameters directly into gate angles, extracting features through Pauli-Z expectation values for melting-temperature prediction. | Validated on IBM quantum hardware, tested with CI, manuscript in preparation (target: *Nature Communications*) |
-| **[tale-linker-design](https://github.com/ahmedanees-m/tale-linker-design)** | Design framework for peptide linkers connecting TALE DNA-binding arrays to catalytic effector domains, for programmable genome-editing tools. | Active |
-
-Other research threads include quantum kernels for protein fitness prediction, epistasis-aware CAR-T design through QUBO formulations, and generative design for AAV and lentiviral vectors. Ask me about any of these.
 
 ---
 
-## Right now
+## How I work
 
-- Bench validation on a lentiviral integration-site retargeting project (CBX1-integrase fusion versus wild-type, ONT-based LM-PCR)
-- Finishing validation on DISCERN ahead of submission
-- Choosing the next quantum-circuit direction for a genomics publication
-- Building for Anthropic's Built with Claude: Life Sciences hackathon (July 2026)
-
----
-
-I would rather hand a reviewer a plot with error bars and an honest "not yet" than a headline that does not survive scrutiny, including on my own quantum-computing work. Overclaiming quantum advantage is easy. Earning it is not.
+I would rather hand a reviewer a plot with error bars and an honest "not yet" than a headline that does not survive scrutiny, and I hold my own quantum-computing work to exactly that standard. Claims earn their place through pre-registration, blind validation, and results that hold up when someone else runs them. Overclaiming quantum advantage is easy. Earning it is not.
 
 ## Let's connect
 
