@@ -30,7 +30,7 @@ Before writing software, I spent six years at the bench, running gels, setting u
 
 ## Computational layer
 
-- **AI-native systems architecture:** designing and shipping agentic tools solo, using LLM coding agents as the build layer rather than a shortcut around understanding
+- **AI-native systems architecture: designing and shipping agentic tools solo, using AI-assisted development as a core part of a disciplined engineering practice
 - **Quantum computing for genomics:** physics-informed quantum circuits applied to DNA biophysics and mutation modelling
 - **ML for molecular biology:** GNNs (GraphSAGE and GAT), protein language model embeddings (ESM-2), conformal prediction
 - **Full-stack delivery:** from data pipeline to deployed web tool (Streamlit, PyPI packages) on Google Cloud (Vertex AI), comfortable with MCP-based tool integration
