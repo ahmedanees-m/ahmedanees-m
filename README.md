@@ -14,9 +14,7 @@ Vellore, India  ·  ahmedaneesm@gmail.com
 
 ## About
 
-Before I wrote software, I ran gels, set up PCRs, packaged lentivirus, kept mammalian cell cultures alive, and sat through 3 a.m. timepoints. I spent years at the bench first, and that order matters. I do not build AI and ML tools for genetic engineering as an outsider. I built them to solve problems I have personally hit while doing the wet-lab work myself, then validated them back against real biology.
-
-I am an AI-native builder. I architect systems end-to-end, from data pipelines and ML and quantum models to deployed web tools, and I use Frontier coding agents as my implementation layer. That lets me ship research-grade software on my own, at a pace and quality that would usually take a team.
+Before writing software, I spent six years at the bench, running gels, setting up PCRs, packaging lentivirus, maintaining mammalian and primary cell cultures, and working through the unglamorous parts of genetic engineering research. That background shapes how I approach the computational side: I build tools to address problems I encountered directly in wet-lab work, and I validate them against real biology. I am an AI-native builder. I architect systems end-to-end, from data pipelines and ML and quantum models to deployed web tools, and I am well-versed with advanced coding agents.
 
 ---
 
