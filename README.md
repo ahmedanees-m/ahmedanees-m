@@ -3,7 +3,7 @@
 # Anees Ahmed
 
 ### Wet-lab virologist turned computational genome engineer
-**PhD Researcher, Gene Therapy Laboratory, VIT Vellore**
+**Doctoral Researcher, Gene Therapy Laboratory, VIT Vellore**
 
 
 Vellore, India  ·  ahmedaneesm@gmail.com
