@@ -1,6 +1,8 @@
 # Anees Ahmed
 
-**Doctoral Researcher, Gene Therapy Laboratory, VIT Vellore**, India · [ahmedaneesm@gmail.com](mailto:ahmedaneesm@gmail.com)
+### Doctoral Researcher, Gene Therapy Laboratory, VIT Vellore, India · [ahmedaneesm@gmail.com](mailto:ahmedaneesm@gmail.com)
+
+---
 
 Synthetic biology is getting easier to design, but harder to trust.
 
