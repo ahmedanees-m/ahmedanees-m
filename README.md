@@ -20,11 +20,11 @@ AI agents can handle the execution. But judgment about what to build, and whethe
 
 Most of what's here is research-grade tooling for genome engineering and computational genomics. These five are the ones worth your time.
 
-- **[pen-stack](https://github.com/ahmedanees-m/pen-stack)** — a verification and grounding layer for AI-driven genome writing: models propose edits, PEN-STACK checks each one against validated tools, never a language model.
-- **[bio-firewall](https://github.com/ahmedanees-m/bio-firewall)** — genome-writing-native biosecurity middleware that inspects the plan a design agent produced, not just the final sequence, across five hazard axes.
-- **[discern](https://github.com/ahmedanees-m/discern)** — a coupled disease-variant engine for differential diagnosis, misdiagnosis prevention and VUS resolution in inherited bleeding and platelet disorders.
-- **[janus-design](https://github.com/ahmedanees-m/janus-design)** — joint amino-acid and codon design for de novo proteins: the sequence and the DNA that encodes it, optimized together.
-- **[quasar](https://github.com/ahmedanees-m/quasar)** — quantum algorithms for mutation-selection dynamics, with a straight assessment of where the quantum-classical boundary actually sits.
+- **[pen-stack](https://github.com/ahmedanees-m/pen-stack)** - a verification and grounding layer for AI-driven genome writing: models propose edits, PEN-STACK checks each one against validated tools, never a language model.
+- **[bio-firewall](https://github.com/ahmedanees-m/bio-firewall)** - genome-writing-native biosecurity middleware that inspects the plan a design agent produced, not just the final sequence, across five hazard axes.
+- **[discern](https://github.com/ahmedanees-m/discern)** - a coupled disease-variant engine for differential diagnosis, misdiagnosis prevention and VUS resolution in inherited bleeding and platelet disorders.
+- **[janus-design](https://github.com/ahmedanees-m/janus-design)** - joint amino-acid and codon design for de novo proteins: the sequence and the DNA that encodes it, optimized together.
+- **[quasar](https://github.com/ahmedanees-m/quasar)** - quantum algorithms for mutation-selection dynamics, with a straight assessment of where the quantum-classical boundary actually sits.
 
 ---
 
