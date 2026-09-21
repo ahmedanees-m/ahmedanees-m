@@ -1,59 +1,30 @@
-<div align="center">
-
 # Anees Ahmed
 
-### Wet-lab virologist turned computational genome engineer
-**Doctoral Researcher, Gene Therapy Laboratory, VIT Vellore**
+**Doctoral Researcher, Gene Therapy Laboratory, VIT Vellore**<br>
+Vellore, India · [ahmedaneesm@gmail.com](mailto:ahmedaneesm@gmail.com)
 
+Synthetic biology is getting easier to design, but harder to trust.
 
-Vellore, India  ·  ahmedaneesm@gmail.com
+I'm a gene therapy researcher who ships software. I build the infrastructure required for the next era of biological design: automation, lab memory, and a reliable co-scientist, bridging wet-lab reality and dry-lab scale.
 
-</div>
+**At the bench:** genome engineering, viral vectors, mammalian cell culture, CRISPR, integration-site analysis.
 
----
+**In code:** end-to-end agentic workflows, machine learning models, and quantum methods for genomics.
 
-## About
-
-Before writing software, I spent six years at the bench, running gels, setting up PCRs, packaging lentivirus, maintaining mammalian and primary cell cultures, and working through the unglamorous parts of genetic engineering research. That background shapes how I approach the computational side: I build tools to address problems I encountered directly in wet-lab work, and I validate them against real biology. I am an AI-native builder. I architect systems end-to-end, from data pipelines and ML and quantum models to deployed web tools, and I am well-versed with advanced coding agents.
-
----
-
-## Wet-lab core
-
-- **Molecular biology and virology:** six years of hands-on bench research
-- **Genetic engineering:** plasmid construction, cloning, viral vector engineering
-- **Vector systems:** lentiviral vector design, packaging, transduction, titer optimization
-- **Cell culture:** established cell lines and primary HSCs, with transfection and transduction workflows
-- **Gene editing:** CRISPR knock-in and knock-out design, shRNA-mediated knockdown
-- **NGS-based integration-site analysis:** oligo design for integration-site mapping on both Illumina and Oxford Nanopore (ONT) platforms, including lentiviral integration-site analysis and retargeting
-- **Grant and proposal writing:** genetic engineering research proposals for institutional and funding-body review
-
-## Computational layer
-
-- AI-native systems architecture: designing and shipping agentic tools solo, using AI-assisted development as a core part of a disciplined engineering practice
-- **Quantum computing for genomics:** physics-informed quantum circuits applied to DNA biophysics and mutation modelling
-- **ML for molecular biology:** GNNs (GraphSAGE and GAT), protein language model embeddings (ESM-2), conformal prediction
-- **Full-stack delivery:** from data pipeline to deployed web tool (Streamlit, PyPI packages) on Google Cloud (Vertex AI), comfortable with MCP-based tool integration
-- **Broad LLM fluency:** hands-on comparative experience across Claude, GPT, Gemini, and other frontier models day to day
+AI agents can handle the execution. But judgment about what to build, and whether a design actually survives the physical reality of a living cell, cannot be delegated. That's the part I do. What I build, I also test.
 
 ---
 
 ## Featured projects
 
-| Project | What it is | Status |
-|---|---|---|
-| **[PEN-STACK](https://github.com/ahmedanees-m/pen-stack)** | End-to-end open infrastructure for programmable genome writing: a learned locus atlas for safe and durable integration sites, a curated atlas of roughly 33K genome-writing enzyme systems, an inverse-design Write Planner, and an agentic RAG question-and-answer layer served through a live web app. One completed component (IS110-family recombinase design) hit 5 of 5 pre-registered predictions across 1,029 candidates. | `pip install pen-stack`,|
-| **[DISCERN](https://github.com/ahmedanees-m/discern)** | Clinical decision-support engine to catch misdiagnosis across inherited bleeding and platelet disorders that mimic each other clinically, for example Glanzmann thrombasthenia versus LAD-III. It flags cases where the wrong diagnosis would mean the wrong treatment, not just the wrong label. | Implementation complete, validation in progress |
-| **[bio-firewall](https://github.com/ahmedanees-m/bio-firewall)** | Genome-writing-native biosecurity middleware that supervises agentic design AI. A five-axis screen across cargo, locus, edit type, germline, and scale returns allow, flag-for-review, or refuse, each with cited evidence and a signed design passport. Defensive, open-data reference implementation. | Open source (Apache-2.0), benchmarked|
-| **[QuBiS-HiQ](https://github.com/ahmedanees-m/QuBiS-HiQ)** | Physics-informed quantum circuit that encodes SantaLucia nearest-neighbour DNA thermodynamic parameters directly into gate angles, extracting features through Pauli-Z expectation values for melting-temperature prediction. | Validated on IBM quantum hardware, tested with CI
+Most of what's here is research-grade tooling for genome engineering and computational genomics. These five are the ones worth your time.
+
+- **[pen-stack](https://github.com/ahmedanees-m/pen-stack)** — a verification and grounding layer for AI-driven genome writing: models propose edits, PEN-STACK checks each one against validated tools, never a language model.
+- **[bio-firewall](https://github.com/ahmedanees-m/bio-firewall)** — genome-writing-native biosecurity middleware that inspects the plan a design agent produced, not just the final sequence, across five hazard axes.
+- **[discern](https://github.com/ahmedanees-m/discern)** — a coupled disease-variant engine for differential diagnosis, misdiagnosis prevention and VUS resolution in inherited bleeding and platelet disorders.
+- **[janus-design](https://github.com/ahmedanees-m/janus-design)** — joint amino-acid and codon design for de novo proteins: the sequence and the DNA that encodes it, optimized together.
+- **[quasar](https://github.com/ahmedanees-m/quasar)** — quantum algorithms for mutation-selection dynamics, with a straight assessment of where the quantum-classical boundary actually sits.
 
 ---
 
-## How I work
-
-I would rather hand a reviewer a plot with error bars and an honest "not yet" than a headline that does not survive scrutiny, and I hold my own quantum-computing work to exactly that standard. Claims earn their place through pre-registration, blind validation, and results that hold up when someone else runs them. Overclaiming quantum advantage is easy. Earning it is not.
-
-## Let's connect
-
-- **Email:** ahmedaneesm@gmail.com
-- **Institute:** Gene Therapy Laboratory, School of Biosciences and Technology, VIT Vellore
+[LinkedIn](https://www.linkedin.com/in/anees-ahmed-8498109a) · [ORCID](https://orcid.org/0000-0002-2135-0865)
